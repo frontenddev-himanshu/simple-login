@@ -1,0 +1,85 @@
+@media screen and (max-width:1366px) {
+    .container {
+        width: 90%;
+    }
+
+    .main-section {
+        width: 90%;
+        /* overflow: hidden; */
+    }
+
+    .image-section img {
+        width: 780px;
+    }
+
+    form {
+        padding: 20px;
+    }
+
+    .form-sec {
+        margin-top: 30px;
+    }
+}
+
+
+
+@media screen and (max-width:765px) {
+
+
+    .container {
+        width: 95%;
+    }
+
+    .main-section {
+        width: 95%;
+    }
+
+    .main-section {
+        flex-direction: column;
+    }
+
+
+    .image-section img {
+        width: 100%;
+    }
+
+    .logo a {
+        font-size: 1rem;
+    }
+
+    form {
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .register-section a {
+        padding: 8px 20px;
+    }
+
+    .head h1 {
+        font-size: 1.6rem;
+    }
+
+    .head-text {
+        font-size: .8rem;
+    }
+
+    .form-section {
+        width: 280px;
+    }
+
+    .first-button a {
+        padding: 8px 20px;
+    }
+
+    .second-button a {
+        font-size: .8rem;
+    }
+
+    .last-button a {
+        padding: 8px 20px;
+    }
+
+
+}
